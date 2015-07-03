@@ -6,11 +6,12 @@
 }
 
 // for selenium IOS
-{
-  'browserName': 'internet explorer',
-  'platform': 'WINDOWS',
-  'version': '9'
-}
+browsers: [{
+  platform: 'MAC',
+  browserName: 'safari',
+  platformName: 'iOS',
+  deviceName: 'iPad 2'
+}]
 
 // for GALEN
 devices: {
