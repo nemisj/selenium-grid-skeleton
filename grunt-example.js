@@ -11,6 +11,7 @@ browsers: [
     platform: 'MAC',
     browserName: 'safari',
     platformName: 'iOS',
-    deviceName: 'iPad 2'
+    deviceName: 'iPad 2',
+    platformVersion: '8.3'
   }
 ]
